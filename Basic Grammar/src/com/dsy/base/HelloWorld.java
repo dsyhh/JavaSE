@@ -1,4 +1,4 @@
-package base;
+package com.dsy.base;
 
 /**
  * @Author DSY

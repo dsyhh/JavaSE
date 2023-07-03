@@ -1,4 +1,4 @@
-package base;
+package com.dsy.base;
 
 /**
  * @Date 2023/7/3 15:10

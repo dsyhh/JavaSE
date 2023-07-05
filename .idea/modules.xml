@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Basic Grammar/Basic Grammar.iml" filepath="$PROJECT_DIR$/Basic Grammar/Basic Grammar.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/MutiThread/MutiThread.iml" filepath="$PROJECT_DIR$/MutiThread/MutiThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetProg/NetProg.iml" filepath="$PROJECT_DIR$/NetProg/NetProg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPChat/UDPChat.iml" filepath="$PROJECT_DIR$/UDPChat/UDPChat.iml" />
     </modules>
   </component>
 </project>
